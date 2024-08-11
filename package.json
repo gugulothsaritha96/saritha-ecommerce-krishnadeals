@@ -1,0 +1,21 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "\"",
+  "main": "index.js",
+  "scripts": {
+   "start": "node script.js"
+
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "shopping_application"
+  },
+
+  "keywords": [
+    "na"
+  ],
+  "author": "saritha",
+  "license": "ISC"
+}
